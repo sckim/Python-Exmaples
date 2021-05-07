@@ -1,0 +1,1 @@
+print(sum(eval('*'.join(str(x))) for x in range(10,16)))
